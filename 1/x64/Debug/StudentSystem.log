@@ -1,0 +1,9 @@
+﻿  StudentSystemManager.cpp
+E:\Workspace\vs\StudentSystem\StudentSystem\StudentSystemManager.cpp(69,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Workspace\vs\StudentSystem\StudentSystem\StudentSystemManager.cpp(121,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Workspace\vs\StudentSystem\StudentSystem\StudentSystemManager.cpp(146,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Workspace\vs\StudentSystem\StudentSystem\StudentSystemManager.cpp(166,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Workspace\vs\StudentSystem\StudentSystem\StudentSystemManager.cpp(191,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Workspace\vs\StudentSystem\StudentSystem\StudentSystemManager.cpp(198,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Workspace\vs\StudentSystem\StudentSystem\StudentSystemManager.cpp(220,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  StudentSystem.vcxproj -> E:\Workspace\vs\StudentSystem\x64\Debug\StudentSystem.exe
